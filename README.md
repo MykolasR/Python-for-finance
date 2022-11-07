@@ -1,5 +1,5 @@
 # Python-for-finance
-Financial analysis with Python; /n
+Financial analysis with Python; 
 Calculating and comparing rate of returns;
 Measuring investment risk;
 Using regressions for financial analysis;
